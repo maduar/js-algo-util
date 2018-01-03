@@ -1,0 +1,22 @@
+{
+  "name": "js-algo-util",
+  "version": "1.0.1",
+  "description": "alog, javascript, js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maduar/mqqutil.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "maduar <maduar86@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hashcode": "^1.0.3",
+    "lodash": "^4.17.4"
+  }
+}
