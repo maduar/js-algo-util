@@ -5,10 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maduar/mqqutil.git"
-  },
-  "scripts": {
-    "test": "node index.js"
+    "url": "https://github.com/maduar/js-algo-util.git"
   },
   "keywords": [
     "javascript"
@@ -16,7 +13,6 @@
   "author": "maduar <maduar86@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "hashcode": "^1.0.3",
-    "lodash": "^4.17.4"
+
   }
 }
